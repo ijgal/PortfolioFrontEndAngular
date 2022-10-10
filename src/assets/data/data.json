@@ -1,0 +1,126 @@
+{
+    "banner": "./assets/banner.jpg",
+    "fotoPerfil": "./assets/profile3.jpg",
+    "nombre": "Ignacio José Galante",
+    "perfilActual": "Abogado con conocimientos en Ciencias de la computación",
+
+  "educacion": [{
+    "imagen": "./assets/utdt.jpg",
+    "título": "Magíster en Derecho y Economía (mejor promedio)",
+    "universidad": "Universidad Torcuato Di Tella",
+    "ubicacion": "Ciudad Autónoma de Buenos Aires, Argentina.",
+    "promedio": "Promedio: 9.",
+    "datosAdicionales": "Mejor promedio de la promoción. Tesis Pendiente."
+  },
+  {
+    "imagen": "./assets/uba.png",
+    "título": "Abogado ",
+    "universidad": "Universidad de Buenos Aires",
+    "ubicacion": "Ciudad Autónoma de Buenos Aires, Argentina.",
+    "promedio": "Promedio: 8,50",
+    "datosAdicionales": "Diploma de Honor."
+  }
+  ],
+  "experiencia": [{
+    "imagen": "./assets/afip.JPG",
+    "tituloCargo": "ASESOR JURÍDICO",
+    "empleador": "AFIP",
+    "período": "2019-actualidad",
+    "ubicacion": "Ciudad Autónoma de Buenos Aires, Argentina",
+    "descripcionCargo": "Asesor Jurídico en Compras y Contrataciones"
+  },
+  {
+    "imagen": "./assets/arsat.JPG",
+    "tituloCargo": "ABOGADO",
+    "empleador": "ARSAT",
+    "período": "2012-2019",
+    "ubicacion": "Benavídez, Provincia de Buenos Aires",
+    "descripcionCargo": "Asesoramiento general en derecho empresarial y atención de litigios en materia laboral, civil y comercial"
+  },
+  {
+    "imagen": "./assets/bullo.JPG",
+    "tituloCargo": "Analista Legal",
+    "empleador": "ESTUDIO BULLÓ",
+    "período": "2012",
+    "ubicacion": "Ciudad Autónoma de Buenos Aires, Argentina",
+    "descripcionCargo": "Procurador, asesor jurídico."
+  },
+  {
+    "imagen": "./assets/almaraz.JPG",
+    "tituloCargo": "Analista Legal",
+    "empleador": "ESTUDIO JURÌDICO ALMARAZ & ASOCIADOS",
+    "período": "2009-2012",
+    "ubicacion": "Ciudad Autónoma de Buenos Aires, Argentina",
+    "descripcionCargo": "rocuración y asesoramiento en derecho de marcas y negociación de oposiciones"
+  },
+  {
+    "imagen": "./assets/EP.JPG",
+    "tituloCargo": "Líder de Proyecto en Precios de Transferencia",
+    "empleador": "ENTERPRICING",
+    "período": "2006-2009",
+    "ubicacion": "Ciudad Autónoma de Buenos Aires, Argentina",
+    "descripcionCargo": "Responsable directo frente a los clientes, asignando y controlando las tareas de los consultores en Precios de Transferencia"
+  }
+],
+
+"hardSkills": [{
+    "skill": "HTML/CSS",
+    "progreso": "65%"
+  },
+  {
+    "skill": "JAVASCRIPT",
+    "progreso": "45%"
+  },
+  {
+    "skill": "PYTHON",
+    "progreso": "40%"
+  },
+  {
+    "skill": "MySQL",
+    "progreso": "35%"
+  },
+  {
+    "skill": "JAVA",
+    "progreso": "25%"
+  }
+  ],
+
+
+"softSkills": [{
+    "skill": "Ética de Trabajo",
+    "progreso": "100%"
+  },
+  {
+    "skill": "Resolución de Problemas",
+    "progreso": "90%"
+  },
+  {
+    "skill": "Trabajo en Equipo",
+    "progreso": "80%"
+  },
+  {
+    "skill": "Liderazgo",
+    "progreso": "75%"
+  }
+  ],
+  "idiomas": [{
+    "idioma": "ESPAÑOL (nativo)",
+    "progreso": "100%"
+  },
+  {
+    "idioma": "INGLÉS",
+    "progreso": "70%"
+  },
+  {
+    "idioma": "PORTUGUÉS",
+    "progreso": "15%"
+  }
+  ],
+
+  "proyectos": [{
+    "titulo": "Portfolio Web",
+    "descripcion": "ortfolio Web para trabajo final en curso #YoProgramo de Argentina Programa, avalado por Ministerio de Economía y la Cámara de la Industria Argentina del Software",
+    "imagen": "./assets/proyecto1.JPG"
+  }
+  ]
+}
